@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/pythongamecenter/static/css/main.073c9b0a.css",
-    "main.js": "/pythongamecenter/static/js/main.fbcddbb8.js",
+    "main.js": "/pythongamecenter/static/js/main.9b077ad5.js",
     "static/js/787.d52b17ca.chunk.js": "/pythongamecenter/static/js/787.d52b17ca.chunk.js",
     "static/media/logo.svg": "/pythongamecenter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/pythongamecenter/index.html",
     "main.073c9b0a.css.map": "/pythongamecenter/static/css/main.073c9b0a.css.map",
-    "main.fbcddbb8.js.map": "/pythongamecenter/static/js/main.fbcddbb8.js.map",
+    "main.9b077ad5.js.map": "/pythongamecenter/static/js/main.9b077ad5.js.map",
     "787.d52b17ca.chunk.js.map": "/pythongamecenter/static/js/787.d52b17ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fbcddbb8.js"
+    "static/js/main.9b077ad5.js"
   ]
 }
